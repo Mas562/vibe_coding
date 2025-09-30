@@ -28,8 +28,7 @@
 
 ## 📸 Немного обо мне
 
-![Моё фото](<img width="473" height="595" alt="image" src="https://github.com/user-attachments/assets/03082491-be79-4000-8623-4b73c467a250" />
-)  
+![Фото](https://avatars.mds.yandex.net/get-entity_search/1530989/1189852425/S600xU_2x)
 
 
 ---
