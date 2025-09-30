@@ -28,7 +28,8 @@
 
 ## 📸 Немного обо мне
 
-![Моё фото или картинка-символ](<img width="736" height="920" alt="image" src="https://github.com/user-attachments/assets/78e92d3f-2048-454a-b9ea-8089d3492591" />)  
+![Моё фото](<img width="473" height="595" alt="image" src="https://github.com/user-attachments/assets/03082491-be79-4000-8623-4b73c467a250" />
+)  
 
 
 ---
